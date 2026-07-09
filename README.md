@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0018-4sum) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Geometry
 |  |
 | ------- |
@@ -37,4 +39,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0141-linked-list-cycle) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Union-Find
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
