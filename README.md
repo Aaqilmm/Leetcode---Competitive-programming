@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0018-4sum) |
+| [0061-rotate-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0234-palindrome-linked-list) |
