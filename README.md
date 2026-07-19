@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0131-palindrome-partitioning) |
 | [0409-longest-palindrome](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0409-longest-palindrome) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0234-palindrome-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0409-longest-palindrome) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -140,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
