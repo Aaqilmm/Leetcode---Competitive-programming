@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0018-4sum) |
 | [1260-shift-2d-grid](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1331-rank-transform-of-an-array) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0018-4sum) |
 | [0061-rotate-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0141-linked-list-cycle) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0018-4sum) |
 | [0147-insertion-sort-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0147-insertion-sort-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1331-rank-transform-of-an-array) |
