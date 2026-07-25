@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0147-insertion-sort-list) |
 | [1331-rank-transform-of-an-array](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1331-rank-transform-of-an-array) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3536-maximum-product-of-two-digits](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Linked List
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
