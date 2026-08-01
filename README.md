@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0053-maximum-subarray) |
+| [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1331-rank-transform-of-an-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0131-palindrome-partitioning) |
+| [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Backtracking
 |  |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
 ## Greedy
 |  |
 | ------- |
@@ -228,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0225-implement-stack-using-queues) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
