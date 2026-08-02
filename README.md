@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3312-sorted-gcd-pair-queries) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Backtracking
 |  |
@@ -236,4 +239,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
