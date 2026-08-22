@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0053-maximum-subarray) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0084-largest-rectangle-in-histogram) |
+| [0212-word-search-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0212-word-search-ii) |
 | [0396-rotate-function](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0212-word-search-ii) |
 | [0409-longest-palindrome](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0412-fizz-buzz) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0131-palindrome-partitioning) |
+| [0212-word-search-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0212-word-search-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Stack
 |  |
@@ -271,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0212-word-search-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0212-word-search-ii) |
 | [1260-shift-2d-grid](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1260-shift-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Segment Tree
@@ -349,4 +353,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0084-largest-rectangle-in-histogram) |
+## Trie
+|  |
+| ------- |
+| [0212-word-search-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0212-word-search-ii) |
 <!---LeetCode Topics End-->
