@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0258-add-digits) |
 | [0396-rotate-function](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0728-self-dividing-numbers) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0212-word-search-ii) |
 | [0409-longest-palindrome](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0415-add-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0415-add-strings) |
 | [1260-shift-2d-grid](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
