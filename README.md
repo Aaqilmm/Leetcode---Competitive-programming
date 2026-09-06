@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1140-stone-game-ii) |
+| [1175-prime-arrangements](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1175-prime-arrangements) |
 | [1406-stone-game-iii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1563-stone-game-v) |
@@ -400,4 +401,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0212-word-search-ii) |
+## Primality Test
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1175-prime-arrangements) |
+## Sieve Theory
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1175-prime-arrangements) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [1175-prime-arrangements](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1175-prime-arrangements) |
 <!---LeetCode Topics End-->
