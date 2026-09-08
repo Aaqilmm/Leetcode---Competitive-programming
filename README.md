@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0883-projection-area-of-3d-shapes) |
 | [1140-stone-game-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1140-stone-game-ii) |
+| [1154-day-of-the-year](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1175-prime-arrangements) |
 | [1406-stone-game-iii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1510-stone-game-iv) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0415-add-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1154-day-of-the-year](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1154-day-of-the-year) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2213-longest-substring-of-one-repeating-character) |
