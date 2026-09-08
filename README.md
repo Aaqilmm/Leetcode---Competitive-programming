@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0175-combine-two-tables) |
 | [0182-duplicate-emails](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0183-customers-who-never-order) |
+| [1068-product-sales-analysis-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1068-product-sales-analysis-i) |
 | [1693-daily-leads-and-partners](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1693-daily-leads-and-partners) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1757-recyclable-and-low-fat-products) |
