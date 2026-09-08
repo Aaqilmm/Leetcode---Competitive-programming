@@ -424,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1175-prime-arrangements](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1175-prime-arrangements) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
