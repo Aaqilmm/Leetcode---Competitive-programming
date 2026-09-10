@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
@@ -437,4 +438,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1757-recyclable-and-low-fat-products](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1757-recyclable-and-low-fat-products) |
 | [1795-rearrange-products-table](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1795-rearrange-products-table) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
