@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0728-self-dividing-numbers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0883-projection-area-of-3d-shapes) |
+| [1025-divisor-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1140-stone-game-ii) |
 | [1154-day-of-the-year](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1154-day-of-the-year) |
 | [1175-prime-arrangements](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1175-prime-arrangements) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0396-rotate-function) |
 | [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1510-stone-game-iv) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0877-stone-game) |
+| [1025-divisor-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1025-divisor-game) |
 | [1140-stone-game-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1510-stone-game-iv) |
@@ -454,4 +457,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
