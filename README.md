@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
 | [0598-range-addition-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0883-projection-area-of-3d-shapes) |
 | [1140-stone-game-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1140-stone-game-ii) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0212-word-search-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0212-word-search-ii) |
+| [0835-image-overlap](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1260-shift-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1970-last-day-where-you-can-still-cross) |
