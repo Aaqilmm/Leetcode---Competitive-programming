@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1280-students-and-examinations) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1587-bank-account-summary-ii) |
 | [1661-average-time-of-process-per-machine](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1661-average-time-of-process-per-machine) |
