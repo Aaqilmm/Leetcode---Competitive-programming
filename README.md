@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0626-exchange-seats](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0626-exchange-seats) |
 | [1068-product-sales-analysis-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1407-top-travellers) |
