@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0415-add-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1154-day-of-the-year) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1927-sum-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1927-sum-game) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -495,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1025-divisor-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
