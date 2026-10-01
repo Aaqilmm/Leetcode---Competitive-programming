@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0020-valid-parentheses) |
 | [0093-restore-ip-addresses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0093-restore-ip-addresses) |
 | [0131-palindrome-partitioning](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0212-word-search-ii) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0225-implement-stack-using-queues) |
@@ -503,5 +505,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
