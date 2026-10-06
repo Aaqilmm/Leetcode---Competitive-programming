@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0415-add-strings) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1154-day-of-the-year](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1154-day-of-the-year) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0234-palindrome-linked-list) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0409-longest-palindrome) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1927-sum-game) |
@@ -513,5 +516,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
