@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-reformat-department-table](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1179-reformat-department-table) |
 | [1251-average-selling-price](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1280-students-and-examinations) |
+| [1341-movie-rating](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1407-top-travellers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1407-top-travellers) |
 | [1587-bank-account-summary-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1587-bank-account-summary-ii) |
