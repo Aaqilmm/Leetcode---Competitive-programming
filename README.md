@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0099-recover-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -516,10 +517,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0099-recover-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0099-recover-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Brainteaser
 |  |
@@ -539,4 +542,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0099-recover-binary-search-tree](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
