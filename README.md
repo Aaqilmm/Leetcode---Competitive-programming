@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3665-twisted-mirror-path-count) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3731-find-missing-elements) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3524-find-x-value-of-array-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3665-twisted-mirror-path-count) |
 ## Backtracking
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1260-shift-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1970-last-day-where-you-can-still-cross) |
+| [3665-twisted-mirror-path-count](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3665-twisted-mirror-path-count) |
 ## Segment Tree
 |  |
 | ------- |
