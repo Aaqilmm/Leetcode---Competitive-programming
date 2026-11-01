@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [0212-word-search-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0212-word-search-ii) |
 | [0396-rotate-function](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0396-rotate-function) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
 | [0598-range-addition-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0415-add-strings) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0486-predict-the-winner) |
 | [0598-range-addition-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
