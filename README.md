@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0883-projection-area-of-3d-shapes) |
 | [1140-stone-game-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [1331-rank-transform-of-an-array](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1406-stone-game-iii) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2685-count-the-number-of-complete-components) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0099-recover-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2685-count-the-number-of-complete-components) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2685-count-the-number-of-complete-components](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3310-remove-methods-from-project) |
@@ -364,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3312-sorted-gcd-pair-queries) |
@@ -390,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0835-image-overlap) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0883-projection-area-of-3d-shapes) |
 | [1260-shift-2d-grid](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1267-count-servers-that-communicate) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1970-last-day-where-you-can-still-cross) |
 | [3665-twisted-mirror-path-count](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3665-twisted-mirror-path-count) |
 ## Segment Tree
