@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3483-unique-3-digit-even-numbers) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -388,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0084-largest-rectangle-in-histogram) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Matrix
 |  |
 | ------- |
@@ -403,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Bit Manipulation
@@ -438,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0225-implement-stack-using-queues) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Game Theory
 |  |
 | ------- |
@@ -480,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Ordered Set
 |  |
@@ -580,4 +586,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/0099-recover-binary-search-tree) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Aaqilmm/Leetcode---Competitive-programming/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
